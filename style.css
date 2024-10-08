@@ -1,3 +1,20 @@
-.fancy-layout {
+/*.fancy-layout {
     background-color: hotpink;
+}*/
+
+p  {
+    /*font-family: "Comic Sans MS";*/
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(207, 23, 23);
+    background-color: black;
+    max-width: 220px;
+    border-radius: 10px;
+    border: 3px red solid
+}
+
+img {
+    max-width: 50%;
+    max-height: 50%;
 }
